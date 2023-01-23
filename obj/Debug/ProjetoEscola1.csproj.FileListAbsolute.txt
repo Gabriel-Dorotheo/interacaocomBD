@@ -1,0 +1,11 @@
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\bin\Debug\ProjetoEscola1.exe.config
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\bin\Debug\ProjetoEscola1.exe
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\bin\Debug\ProjetoEscola1.pdb
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.csproj.AssemblyReference.cache
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.Form1.resources
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.Properties.Resources.resources
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.csproj.GenerateResource.cache
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.csproj.CoreCompileInputs.cache
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.exe
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.pdb
