@@ -13,9 +13,12 @@ namespace ProjetoEscola1
 {
 	public partial class F_login : Form
 	{
+
+		DataTable dt = new DataTable();
 		public F_login()
 		{
 			InitializeComponent();
+
 		}
 
 		private void bt1_Click(object sender, EventArgs e)
@@ -28,6 +31,19 @@ namespace ProjetoEscola1
 				tb_user.Focus();
 				return;
 			}
+			string sql = "SELECT * FROM tb_usuarios WHERE username_usuario='" + username + "'AND senha_usuario='" + senha + "'";
+			
+
+
+
+
+
+
+
+
+
+
+
 		}
 
 		private void textBox1_TextChanged(object sender, EventArgs e)

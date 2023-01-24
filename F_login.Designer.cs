@@ -40,7 +40,7 @@
 			// 
 			this.bt1.Location = new System.Drawing.Point(32, 166);
 			this.bt1.Name = "bt1";
-			this.bt1.Size = new System.Drawing.Size(115, 33);
+			this.bt1.Size = new System.Drawing.Size(94, 33);
 			this.bt1.TabIndex = 0;
 			this.bt1.Text = "Login";
 			this.bt1.UseVisualStyleBackColor = true;
@@ -50,7 +50,7 @@
 			// 
 			this.tb_user.Location = new System.Drawing.Point(32, 57);
 			this.tb_user.Name = "tb_user";
-			this.tb_user.Size = new System.Drawing.Size(318, 20);
+			this.tb_user.Size = new System.Drawing.Size(210, 20);
 			this.tb_user.TabIndex = 1;
 			this.tb_user.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
 			// 
@@ -58,7 +58,7 @@
 			// 
 			this.tb_senha.Location = new System.Drawing.Point(32, 110);
 			this.tb_senha.Name = "tb_senha";
-			this.tb_senha.Size = new System.Drawing.Size(318, 20);
+			this.tb_senha.Size = new System.Drawing.Size(210, 20);
 			this.tb_senha.TabIndex = 2;
 			this.tb_senha.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
 			// 
@@ -82,9 +82,9 @@
 			// 
 			// bt2
 			// 
-			this.bt2.Location = new System.Drawing.Point(235, 166);
+			this.bt2.Location = new System.Drawing.Point(148, 166);
 			this.bt2.Name = "bt2";
-			this.bt2.Size = new System.Drawing.Size(115, 33);
+			this.bt2.Size = new System.Drawing.Size(94, 33);
 			this.bt2.TabIndex = 5;
 			this.bt2.Text = "Cancelar";
 			this.bt2.UseVisualStyleBackColor = true;
@@ -94,7 +94,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(379, 228);
+			this.ClientSize = new System.Drawing.Size(277, 228);
 			this.Controls.Add(this.bt2);
 			this.Controls.Add(this.lb_senha);
 			this.Controls.Add(this.lb_usuario);

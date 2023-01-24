@@ -28,6 +28,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
+			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.menuStrip1 = new System.Windows.Forms.MenuStrip();
 			this.loginToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.logonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -219,9 +220,11 @@
 			// 
 			// pb1
 			// 
+			this.pb1.Image = ((System.Drawing.Image)(resources.GetObject("pb1.Image")));
 			this.pb1.Location = new System.Drawing.Point(12, 14);
 			this.pb1.Name = "pb1";
 			this.pb1.Size = new System.Drawing.Size(25, 25);
+			this.pb1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
 			this.pb1.TabIndex = 0;
 			this.pb1.TabStop = false;
 			// 

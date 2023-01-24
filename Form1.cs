@@ -29,8 +29,8 @@ namespace ProjetoEscola1
 
 		private void logonToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			F_login f_Login = new F_login();
-			f_Login.ShowDialog();
+			F_login f_login = new F_login();
+			f_login.ShowDialog();
 
 		}
 	}
