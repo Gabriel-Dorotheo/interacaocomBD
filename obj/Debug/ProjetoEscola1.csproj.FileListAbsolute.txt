@@ -9,3 +9,4 @@ C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.
 C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.csproj.CoreCompileInputs.cache
 C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.exe
 C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.pdb
+C:\Users\jesley.gdoliveira\source\repos\ProjetoEscola1\obj\Debug\ProjetoEscola1.F_login.resources
